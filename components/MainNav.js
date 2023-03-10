@@ -32,7 +32,7 @@ export default function MainNav() {
                 Advanced Search
               </Nav.Link>
             </Nav>
-            <Form onSubmit={handleSubmit} className="d-flex">
+            <Form onSubmit={handleSubmit} className="d-flex ">
               <FormControl
                 type="text"
                 placeholder="Search"
